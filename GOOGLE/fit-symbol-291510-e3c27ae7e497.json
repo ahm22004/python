@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fit-symbol-291510",
+  "private_key_id": "e3c27ae7e497dec9e0adc394aba08d7cdfa3ad64",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDvcRMUI41EsYXU\nFWE1QAVwMhjdg4QN94jRyN7B2kHAakUbgj/NuT81J88fDXLkytF9mnZSDVcLWqnN\nQoBMRz+LcReGd/bUcuz77ozlQHMKK78C7ckud4Ikct5d205OhKpomplyTbVvu4IW\nXJ/KToUu6x4Wusz0YQdXqSk7wlJjDiaxAaX4M+RxTXcOLZbjXbNU9uzCtrUHAYpt\npvf3CUKBTs3qBiRn7u3pBnxmrTlqhfBBrA3HXUf/eiNHM6Yd0ySkv3zBsXZlhkRT\n9PXY+Oy2H9gqZh+0UliKSGgmlLCmWzmUwkWSA/yiYChj01th9zmYF91LgosMtFLo\nPZTwygP7AgMBAAECggEAHDUtUuFf/R26GbgYZuuPOHPOa2+DmRmg7AXxUtO24fIj\nCLtEGk+ehfvrR0nlpSp3mjJzifW5sW68M6Ayo8nTpJvCx7v46iJNOjNqNH/D4wja\n9yoIL18zh75jOpoMFEKbc2NIfHzHHniaj1kuFz6U1hLWIptdwH8bHFVOCZTk8SI5\nTw/dhSxxf6EmzuUHiSBoHaGV5v4/F4/hMsVdDGf60avvxE62iHxYdcVYA3akCHNQ\np998pqOhlc5LMWQIN1s6y/Ix9vQXfSs9FxPAomy6sH9orjKHDwCCT1d6o+51I/gX\nDMIiaLjcYtaVHXHOUuVjXL2W5N8yJCczth1ES7obQQKBgQD66LXtViEJwDSHsshe\no4RcO9hxryQQjgtWZq4NjPxjyax+uLo3fuTCrkjQ0KGwddKzX8h8KwezQ1r6ueJn\nQEfLEpENKj1JpF1QJ5IZt+xsnB+2sNuqUw1rq2JMCzwJ2b7hiEZDWqAclXFSE4dh\n9+YxTFll65gvRT9oIEiBix4tKwKBgQD0TMyp2sClGz86jqmkoDq9FxK8fRNspCUm\nyWmzxyUwc6K0KTCvo6UBn6hS5T+QrbhOtDcFQsE5ym2CnnPUwj2ffrIp4MZY4P1J\nmXJ/b60JEZjnndHRCyltWdUthexSoXb/Ir/Pi4ZHP1hHx1MfNobd09uzkui7vLaY\nmDjQhKY8cQKBgAsWXXOvaqZTp/6XF+OWtjKdMmNTqfRRUo7u2qIeqMiAEO9ImnH5\nWYKA0RbpITv6+OSURve1rxFs2IhbznVhkcqXd3FtfGfUq4rvNLWOOxRRkdUw24Qb\nR2yKlj1mAbEtvhGZRAGV751TvT4zPrhFjBaBmTG3x3HPTY38XzfaPeshAoGANOkV\nQoxgQOIf1ZzkXQVe82k146DrPhJnAXmJ7SfqhA3nZUGui7vTlwBvQlToaXtWeaVK\nbVdB5jRTd4C98YyIMC0OhUdrbgB8mx4i0DrtrRMknLVvpejW9hoIs61Xu6XA0g1C\nob7EPFYZ1qHy/MWgfBbQdJoS0eZTXcVKOM8h+eECgYBkO1tFsfNFjeGWj0IpsU7h\nD8N4vJWNs8sv+d78Hw/FgJgHh/0+xMo/HNPiW+FrPZgxhulF5RrtnDCM3TVpvMYR\n1NBnhCwh94bzkICTW7GKrJS3Cx79f+nqNG8HHsb3y2E+QCSCxxnHFW3l0xlBIeCd\nVSNRsL0KhLajj28/TBGhpQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "codelab@fit-symbol-291510.iam.gserviceaccount.com",
+  "client_id": "103213045106600015092",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codelab%40fit-symbol-291510.iam.gserviceaccount.com"
+}
