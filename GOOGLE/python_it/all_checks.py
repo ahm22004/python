@@ -7,7 +7,9 @@ import sys
 def check_reboot():
     pass
 
+
 def main():
     pass
 
-main():
+
+main()
