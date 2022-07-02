@@ -1,5 +1,6 @@
 data("ToothGrowth")
 View(ToothGrowth)
+install.packages('dplyr')
 
 library(dplyr)
 filtered_tg <- filter(ToothGrowth, dose==0.5)
