@@ -1,3 +1,4 @@
+
 penguins %>% 
   select(-species)
 
@@ -28,3 +29,7 @@ penguins %>%
             mean_bl = mean(bill_length_mm))
 
 penguins %>% filter(species == 'Adelie')
+
+
+penguins %>% mutate(body_mass_kg = body_mass_g/1000)
+View(penguins)
